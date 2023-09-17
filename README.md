@@ -10,7 +10,9 @@ Requirements: Kali Linux or other Linux with required tools installed, Nmap, Arp
 
 Step 1: Connect to the target network and run the following command in the terminal:
 
+```
 ip route
+```
 
 Step 2: Next step is to use nmap to find the different hosts connected to the network by executing the following command:
 
